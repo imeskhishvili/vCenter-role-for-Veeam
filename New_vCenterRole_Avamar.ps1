@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    New_vCenterRole_Veeam.ps1 - PowerShell Script to create a new vCenter Role with all the required permission for Veeam Backup & Replication. 
+    New_vCenterRole_Avamar.ps1 - PowerShell Script to create a new vCenter Role with all the required permission for Veeam Backup & Replication. 
 .DESCRIPTION
     This script is used to create a new role on your vCenter server.
     The newly created role will be filled with the needed permissions for using it with Veeam Backup & Replication
